@@ -1,8 +1,7 @@
 {
-  "rewrites": [
-    {
-      "source": "/api/founding-circle",
-      "destination": "https://klaro-app-aul843gnc-nelson-asohs-projects.vercel.app/api/founding-circle"
+  "functions": {
+    "api/founding-circle.js": {
+      "runtime": "@vercel/node@3"
     }
-  ]
+  }
 }
