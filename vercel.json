@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/founding-circle.js": {
-      "runtime": "@vercel/node@3"
-    }
-  }
-}
+{}
